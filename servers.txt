@@ -6,14 +6,13 @@ kingstonhyperx
 
 America
 
-- [ ] Silicon Valley x1
-- [ ] New York City x1 - 209.182.217.227 - ECiX7aUogj0j
-- [ ] Atlanta x1
+- [ ] Silicon Valley x1 -
+- [ ] New York x1 - 209.182.217.227 - ECiX7aUogj0j
+- [ ] Atlanta x1 - 45.61.51.34 - 9mwJAXC6ODwt
 - [ ] Toronto x1
-- [ ] Los Angeles x1
+- [ ] Los Angeles x1 X
 - [ ] Miami x1
-- [ ] Chicago x1
-
+- [ ] Chicago x1 - 146.71.78.127 - Th6GMPA1A8ob
 
 Europe
 
@@ -31,21 +30,86 @@ Australia
 - [ ] Sydney x1
 
 
-yum install wget
-wget -O install.sh http://core.brainycp.com/install.sh && bash ./install.sh --package=apache2.4,nginx,php74w,imagemagick,certbot,logrotate,git,MySql5.7,phpMyAdmin-4.9.4,exim,proftpd,csf
+yum install wget -y
+wget -O install.sh http://core.brainycp.com/install.sh && bash ./install.sh --package=apache2.4,nginx,php71w,php74w,imagemagick,certbot,logrotate,git,MySql5.7,phpMyAdmin-4.9.4,exim,proftpd
 
 
-ssh-keygen -t rsa -b 4096 -C "koupen@gmail.com"
-cat ~/.ssh/id_rsa.pub
+git clone https://github.com/kovpynets/lootdrop.git
 
-ssh -T git@github.com
-ssh -T -p 443 git@ssh.github.com
+/usr/bin/ssh-keygen
+/usr/libexec/git-core/git-sh-setup
+/usr/libexec/git-core/git-pull
 
-
-New York City - 209.182.217.227
+--- START SERVERS new-york-node1 ---
 http://209.182.217.227:8002
 ssh root@209.182.217.227
-ECiX7aUogj0j
+pass: ECiX7aUogj0j
 ssh hyperx@209.182.217.227
-K080489asd
+pass: K080489asd
+
+ftp IP: 209.182.217.227
+login: hyperx
+pass: K080489asd
+--- END SERVERS new-york-node1 ---
+
+--- START SERVERS atlanta-node1 ---
+http://45.61.51.34:8002
+ssh root@45.61.51.34
+pass: 9mwJAXC6ODwt
+ssh hyperx@45.61.51.34
+pass: K080489asd
+
+ftp IP: 45.61.51.34
+login: hyperx
+pass: K080489asd
+--- END SERVERS new-york-node1 ---
+
+--- START SERVERS chicago-node1 ---
+http://146.71.78.127:8002
+ssh root@146.71.78.127
+pass: Th6GMPA1A8ob
+ssh hyperx@146.71.78.127
+pass: K080489asd
+
+ftp IP: 146.71.78.127
+login: hyperx
+pass: K080489asd
+--- END SERVERS chicago-node1 ---
+
+
+--- BEGIN INSTALL ---
+yum install wget -y
+curl -O http://vestacp.com/pub/vst-install.sh
+bash vst-install.sh
+bash vst-install.sh --nginx yes --phpfpm yes --apache no --named no --remi yes --vsftpd yes --proftpd no --iptables no --fail2ban no --quota no --exim no --dovecot no --spamassassin no --clamav no --softaculous no --mysql no --postgresql no --email koupen@gmail.com --password K080489asd
+
+yum install git nano -y
+
+--- END INSTALL ---
+
+lootdrop.hyperxpromo.com
+hyperxlootdrop.com
+
+--- SERVERS frankfurt-node1 ---
+frankfurt-node1
+ip: 194.37.80.9
+ssh root@194.37.80.9
+pass: 2xxtkWiQB00Q
+
+https://194.37.80.9:8083
+username: admin
+password: nCF4lOKMq7
+
+ftp IP: 194.37.80.9
+login: admin_lootdrop
+pass: K080489asd
+login: admin_ftp
+pass: K080489asd
+
+
+--- SERVERS frankfurt-node2 ---
+frankfurt-node2
+ip: 185.247.118.224
+ssh root@185.247.118.224
+pass: 77rpeIghHQ5i
 
