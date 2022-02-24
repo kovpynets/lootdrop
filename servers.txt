@@ -7,12 +7,12 @@ kingstonhyperx
 America
 
 - [ ] Silicon Valley x1 - 209.182.218.40 - 7kf4D9ysGTwv
-- [ ] New York x1 - 209.182.217.227 - ECiX7aUogj0j
-- [ ] Atlanta x1 - 45.61.51.34 - 9mwJAXC6ODwt
-- [ ] Toronto x1
+- [ ] New York x1 - 209.182.217.227 - ECiX7aUogj0j DONE
+- [ ] Atlanta x1 - 45.61.51.34 - 9mwJAXC6ODwt  DONE
+- [ ] Toronto x1 - 45.61.49.162 - CCdxeSy1fSV9
 - [ ] Los Angeles x1 X
 - [ ] Miami x1
-- [ ] Chicago x1 - 146.71.78.127 - Th6GMPA1A8ob
+- [ ] Chicago x1 - 146.71.78.127 - Th6GMPA1A8ob  DONE
 
 Europe
 
@@ -39,6 +39,18 @@ git clone https://github.com/kovpynets/lootdrop.git
 /usr/bin/ssh-keygen
 /usr/libexec/git-core/git-sh-setup
 /usr/libexec/git-core/git-pull
+
+
+--- START SERVERS toronto-node1 ---
+http://45.61.49.162:8002
+ssh root@45.61.49.162
+pass: CCdxeSy1fSV9
+ssh hyperx@45.61.49.162
+pass: K080489asd
+ftp IP: 45.61.49.162
+login: hyperx
+pass: K080489asd
+--- END SERVERS toronto-node1 ---
 
 --- START SERVERS silicon-valley-node1 ---
 http://209.182.218.40:8002
@@ -84,7 +96,8 @@ login: hyperx
 pass: K080489asd
 --- END SERVERS chicago-node1 ---
 
-
+lootdrop.hyperxpromo.com
+hyperxlootdrop.com
 
 
 
