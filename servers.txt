@@ -6,7 +6,7 @@ kingstonhyperx
 
 America
 
-- [ ] Silicon Valley x1 -
+- [ ] Silicon Valley x1 - 209.182.218.40 - 7kf4D9ysGTwv
 - [ ] New York x1 - 209.182.217.227 - ECiX7aUogj0j
 - [ ] Atlanta x1 - 45.61.51.34 - 9mwJAXC6ODwt
 - [ ] Toronto x1
@@ -40,13 +40,23 @@ git clone https://github.com/kovpynets/lootdrop.git
 /usr/libexec/git-core/git-sh-setup
 /usr/libexec/git-core/git-pull
 
+--- START SERVERS silicon-valley-node1 ---
+http://209.182.218.40:8002
+ssh root@209.182.218.40
+pass: 7kf4D9ysGTwv
+ssh hyperx@209.182.218.40
+pass: K080489asd
+ftp IP: 209.182.218.40
+login: hyperx
+pass: K080489asd
+--- END SERVERS silicon-valley-node1 ---
+
 --- START SERVERS new-york-node1 ---
 http://209.182.217.227:8002
 ssh root@209.182.217.227
 pass: ECiX7aUogj0j
 ssh hyperx@209.182.217.227
 pass: K080489asd
-
 ftp IP: 209.182.217.227
 login: hyperx
 pass: K080489asd
@@ -58,11 +68,10 @@ ssh root@45.61.51.34
 pass: 9mwJAXC6ODwt
 ssh hyperx@45.61.51.34
 pass: K080489asd
-
 ftp IP: 45.61.51.34
 login: hyperx
 pass: K080489asd
---- END SERVERS new-york-node1 ---
+--- END SERVERS atlanta-node1 ---
 
 --- START SERVERS chicago-node1 ---
 http://146.71.78.127:8002
@@ -70,11 +79,30 @@ ssh root@146.71.78.127
 pass: Th6GMPA1A8ob
 ssh hyperx@146.71.78.127
 pass: K080489asd
-
 ftp IP: 146.71.78.127
 login: hyperx
 pass: K080489asd
 --- END SERVERS chicago-node1 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 --- BEGIN INSTALL ---
