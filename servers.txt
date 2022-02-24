@@ -1,0 +1,46 @@
+LOOTDROOP 2
+
+https://www.ukraine.com.ua/
+hyperxhosting@gmail.com
+kingstonhyperx
+
+America
+
+- [ ] Silicon Valley x1
+- [ ] New York City x1 - 209.182.217.227 - ECiX7aUogj0j
+- [ ] Atlanta x1
+- [ ] Toronto x1
+- [ ] Los Angeles x1
+- [ ] Miami x1
+- [ ] Chicago x1
+
+
+Europe
+
+- [ ] Frankfurt x3
+- [ ] Amsterdam x2
+- [ ] London x2
+
+Asia
+
+- [ ] Singapore x3
+- [ ] Tokyo x3
+- [ ] Hong Kong x3
+
+Australia
+- [ ] Sydney x1
+
+
+yum install wget
+wget -O install.sh http://core.brainycp.com/install.sh && bash ./install.sh --package=apache2.4,nginx,php74w,imagemagick,certbot,logrotate,git,MySql5.7,phpMyAdmin-4.9.4,exim,proftpd,csf
+
+ssh-keygen
+
+
+New York City - 209.182.217.227
+http://209.182.217.227:8002
+ssh root@209.182.217.227
+ECiX7aUogj0j
+ssh hyperx@209.182.217.227
+K080489asd
+
