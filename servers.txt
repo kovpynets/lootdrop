@@ -34,7 +34,12 @@ Australia
 yum install wget
 wget -O install.sh http://core.brainycp.com/install.sh && bash ./install.sh --package=apache2.4,nginx,php74w,imagemagick,certbot,logrotate,git,MySql5.7,phpMyAdmin-4.9.4,exim,proftpd,csf
 
-ssh-keygen
+
+ssh-keygen -t rsa -b 4096 -C "koupen@gmail.com"
+cat ~/.ssh/id_rsa.pub
+
+ssh -T git@github.com
+ssh -T -p 443 git@ssh.github.com
 
 
 New York City - 209.182.217.227
