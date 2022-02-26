@@ -5,3 +5,4 @@ kz -
 uz -
 am -
 az -
+nz -

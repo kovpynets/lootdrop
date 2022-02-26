@@ -195,9 +195,9 @@ if (isset($_SERVER["HTTP_CF_IPCOUNTRY"])) {
     }elseif ($cf_country_code == "ch"){
         header('Location: /'.$cf_country_code.$query);
         exit();
-    }elseif ($cf_country_code == "nz"){
-        header('Location: /'.$cf_country_code.$query);
-        exit();
+    //}elseif ($cf_country_code == "nz"){
+    //    header('Location: /'.$cf_country_code.$query);
+    //    exit();
     }elseif ($cf_country_code == "cr"){
         header('Location: /'.$cf_country_code.$query);
         exit();
