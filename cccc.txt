@@ -1,61 +1,7 @@
-us
-ca
-jp
-in
-th
-id
-kr
-tw
-hk
-au
-sg
-vn
-ph
-cn
-ar
-cl
-pe
-co
-uy
-mx
-br
-ru
-ua
-kz
-uz
-by
-md
-az
-uk
-de
-fr
-es
-it
-pl
-nor
-se
-fi
-pt
-sa
-kw
-ae
-il
-tr
-cy
-gr
-ro
-bg
-hr
-rs
-hu
-si
-ee
-lv
-lt
-be
-nl
-cz
-ch
-nz
-cr
-gt
+ua -
+ru -
+by -
+kz -
+uz -
+am -
+az -

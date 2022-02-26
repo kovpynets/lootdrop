@@ -44,6 +44,7 @@ $json = json_decode($data);
         <?= getPartners('South America', 'Brazil'); ?>
     </div>
 
+    <!--
     <div class="bg-partners_left partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="eastern-europe"></div>
         <?= getPartners('Eastern Europe', 'Russia'); ?>
@@ -57,15 +58,19 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Belarus'); ?>
     </div>
+    -->
     <div class="bg-partners_left partners-wrap">
+        <div style="position: absolute; margin-top: -60px; display: block"  id="eastern-europe"></div>
         <?= getPartners('Eastern Europe', 'Moldova'); ?>
     </div>
+    <!--
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Azerbaijan'); ?>
     </div>
     <div class="bg-partners_left partners-wrap">
         <?= getPartners('Eastern Europe', 'Uzbekistan'); ?>
     </div>
+     -->
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Romania'); ?>
     </div>

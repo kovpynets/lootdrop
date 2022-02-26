@@ -3,9 +3,9 @@
  ** USA языковый файл
  ** ----------------------*/
 $lang = array(
-    "meta_title" => "Große Rabatte auf HyperX-Ausrüstung!",
+    "meta_title" => "Tolle Rabatte  auf HyperX-Ausrüstung!",
     "meta_description" => "Sie fallen in Asien ab. Sie fallen in Kanada aus. Sie fallen in Lateinamerika, den Vereinigten Staaten und Europa.",
-    "tagline_header_1" => "Große Rabatte",
+    "tagline_header_1" => "Tolle Rabatte ",
     "tagline_header_2" => "auf HyperX-Ausrüstung!",
     "tagline_header_soon" => "Aktion startet bald!",
     "tagline_desc_1" => "Sie fallen in Asien ab. Sie fallen in Kanada aus. Sie fallen in Lateinamerika, den Vereinigten Staaten und Europa. Überall auf der Karte fallen die Preise! Holen Sie sich HyperX-Ausrüstung, um Ihr Spielerlebnis zu unglaublichen Preisen während des HyperX Loot Drop zu verbessern.",
@@ -24,7 +24,7 @@ $lang = array(
 
     "copywriting" => "no text",
 
-    'og_title' => 'Große Rabatte auf HyperX-Ausrüstung!',
+    'og_title' => 'Tolle Rabatte  auf HyperX-Ausrüstung!',
     'og_description' => 'Sie fallen in Asien ab. Sie fallen in Kanada aus. Sie fallen in Lateinamerika, den Vereinigten Staaten und Europa.',
     'og_img' => 'opengraph_us.jpg',
     'og_img_secure' => 'de',
