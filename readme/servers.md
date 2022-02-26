@@ -104,7 +104,7 @@
 - login: hyperx
 - pass: K080489asd
 
-## sydney-vps - (NO)
+## sydney-vps - (UP)
 ### - панель
 - ip: http://103.125.218.131:8002
 - login: root
