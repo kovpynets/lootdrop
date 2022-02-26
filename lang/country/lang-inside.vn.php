@@ -11,29 +11,29 @@ $langInside = array(
     "middle_east"    => "Trung đông",
 
     // Meta Data
-    "meta_title"       => "Giảm giá lớn cho thiết bị HyperX!",
-    "meta_description" => "Họ đang giảm ở châu Á. Họ đang giảm ở Canada. Họ đang giảm ở Châu Mỹ Latinh, Hoa Kỳ và Châu Âu. Trên khắp bản đồ, giá đang giảm! Nhận thiết bị HyperX để nâng cao trải nghiệm chơi game của bạn với mức giá không tưởng trong thời gian HyperX Loot Drop. Hãy giành lấy chiến lợi phẩm hoành tráng và chuồn đi, chỉ cần nhớ giành lấy những phần thưởng này trong khi bạn có thể, bởi vì một khi những giao dịch này biến mất, chúng sẽ XONG.",
+    "meta_title"       => "Bigs discounts on HyperX gear! ",
+    "meta_description" => "Chương trình khuyến mãi này đang có mặt tại khu vực Châu Á, khu vực Mỹ Latinh, khu vực châu Âu cùng với Mỹ và Canada! Hãy nhân cơ hội này lựa chọn cho mình các sản phẩm Gaming Gear yêu thích đến từ thương hiệu HP HyperX để nâng cao trải nghiệm khi chơi game với mức giá không tưởng trong thời gian diễn ra chương trình. Hãy nhanh tay giành lấy chiến lợi phẩm mà bạn mong muốn khi có thể, bởi vì một khi chương trình này kết thúc thì chiến lợi phẩm này sẽ BIẾN MẤT. Time till the end: Thời gian kết thúc chương trình",
 
     // Soon Title Global
-    "tagline_header_soon" => "Chương trình khuyến mãi sẽ sớm bắt đầu!",
+    "tagline_header_soon" => "Promo staring soon!",
 
     // Banner text
-    "tagline_header_1" => "Giảm giá lớn",
-    "tagline_header_2" => "trên thiết bị HyperX!",
+    "tagline_header_1" => "Bigs discounts",
+    "tagline_header_2" => "on HyperX gear! ",
 
     // Text
     "tagline_desc_1" => "Họ đang giảm ở châu Á. Họ đang giảm ở Canada. Họ đang giảm ở Châu Mỹ Latinh, Hoa Kỳ và Châu Âu. Trên khắp bản đồ, giá đang giảm! Nhận thiết bị HyperX để nâng cao trải nghiệm chơi game của bạn với mức giá không tưởng trong thời gian HyperX Loot Drop.",
-    "tagline_desc_2" => "Hãy giành lấy chiến lợi phẩm hoành tráng và chuồn đi, chỉ cần nhớ giành lấy những phần thưởng này trong khi bạn có thể, bởi vì một khi những giao dịch này biến mất, chúng sẽ XONG.",
+    "tagline_desc_2" => "Hãy nhanh tay giành lấy chiến lợi phẩm mà bạn mong muốn khi có thể, bởi vì một khi chương trình này kết thúc thì chiến lợi phẩm này sẽ BIẾN MẤT. Time till the end: Thời gian kết thúc chương trình",
 
     // Soon TimerToDo
     "tagline_timer_run" => "Thời gian cho đến khi kết thúc",
-    "tagline_timer_soon" => "Thời gian trước khi bắt đầu",
+    "tagline_timer_soon" => "Chương trình sẽ bắt đầu sau:",
 
     // Social name
     "tagline_join_social"	=> "Tham gia với chúng tôi trên phương tiện truyền thông xã hội!",
 
     // OG
-    'og_title' => 'Giảm giá lớn cho thiết bị HyperX!',
+    'og_title' => 'Bigs discounts on HyperX gear! ',
     'og_description' => 'Họ đang giảm ở châu Á. Họ đang giảm ở Canada. Họ đang giảm ở Châu Mỹ Latinh, Hoa Kỳ và Châu Âu.',
 
     // Other

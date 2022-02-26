@@ -26,11 +26,11 @@ $langInside = array(
     "tagline_desc_2" => "最高のアイテムを素早く手に入れましょう。値下げのチャンスを絶対にお見逃しなく。売り切れたら二度目はありません。",
 
     // Soon TimerToDo
-    "tagline_timer_run" => "最後までの時間",
-    "tagline_timer_soon" => "開始前の時間",
+    "tagline_timer_run" => "終わりまであと",
+    "tagline_timer_soon" => "開催まであと",
 
     // Social name
-    "tagline_join_social"	=> "ソーシャルメディアにご参加ください！",
+    "tagline_join_social"	=> "SNSに最新情報をチェックしてください！",
 
     // OG
     'og_title' => 'HyperXビッグセール開催中！',

@@ -1,5 +1,5 @@
 
-## amsterdam-vps - 194.37.81.82
+## 1. amsterdam-vps - 194.37.81.82
 ### - панель
  - ip: http://194.37.81.82:8002
  - login: root
@@ -15,7 +15,7 @@
  - pass: K080489asd
  
 
-## frankfurt-vps - 185.247.118.13
+## 2. frankfurt-vps - 185.247.118.13
 ### - панель
 - ip: http://185.247.118.13:8002
 - login: root
@@ -30,7 +30,7 @@
 - login: hyperx
 - pass: K080489asd
 
-## hong-kong-vps - 103.102.44.104
+## 3. hong-kong-vps - 103.102.44.104
 ### - панель
 - ip: http://103.102.44.104:8002
 - login: root
@@ -45,7 +45,7 @@
 - login: hyperx
 - pass: K080489asd
 
-## london-vps - 185.227.109.161
+## 4. london-vps - 185.227.109.161
 ### - панель
 - ip: http://185.227.109.161:8002
 - login: root
@@ -71,15 +71,3 @@
 ### tokyo-vps
 
 ### toronto-vps
-
-
---- START SERVERS toronto-node1 ---
-http://45.61.49.162:8002
-ssh root@45.61.49.162
-pass: CCdxeSy1fSV9
-ssh hyperx@45.61.49.162
-pass: K080489asd
-ftp IP: 45.61.49.162
-login: hyperx
-pass: K080489asd
---- END SERVERS toronto-node1 ---

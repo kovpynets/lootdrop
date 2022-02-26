@@ -11,10 +11,10 @@ $lang = array(
     "tagline_desc_1" => "彼らはアジアに落ちています。 彼らはカナダに立ち寄っています。 彼らはラテンアメリカ、アメリカ、ヨーロッパに落ち込んでいます。 マップ全体で、価格が下がっています！ HyperXギアを入手して、HyperX LootDrop中に信じられないほどの価格でゲーム体験を強化してください。",
     "tagline_desc_2" => "壮大な戦利品とスクートを手に入れてください。これらの取引がなくなると、それらはなくなってしまうので、できる限りこれらのドロップを手に入れてください。",
 
-    "tagline_timer_header" => "最後までの時間",
-    "tagline_timer_run" => "最後までの時間",
-    "tagline_timer_stop" => "開始前の時間",
-    "tagline_join_social"	=> "ソーシャルメディアにご参加ください！",
+    "tagline_timer_header" => "終わりまであと",
+    "tagline_timer_run" => "終わりまであと",
+    "tagline_timer_stop" => "開催まであと",
+    "tagline_join_social"	=> "SNSに最新情報をチェックしてください！	",
     "tagline_header_end" => "セールは終了いたしました。",
 
     "days" => "日々",

@@ -7,7 +7,7 @@ $lang = array(
     "meta_description" => "Están cayendo en Asia. Están cayendo en Canadá. Están cayendo en Latinoamérica, Estados Unidos y Europa.",
     "tagline_header_1" => "¡Grandes descuentos",
     "tagline_header_2" => "en el equipo de HyperX!",
-    "tagline_header_soon" => "¡Promoción que comenzará pronto!",
+    "tagline_header_soon" => "¡LA PROMOCIÓN COMENZARÁ PRONTO!",
     "tagline_desc_1" => "Están cayendo en Asia. Están cayendo en Canadá. Están cayendo en América Latina, Estados Unidos y Europa. ¡En todo el mapa, los precios están bajando! Obtenga equipo de HyperX para mejorar su experiencia de juego a precios increíbles durante la entrega de botín de HyperX.",
     "tagline_desc_2" => "Agarra el botín épico y huye, solo asegúrate de atrapar estas gotas mientras puedas, porque una vez que estas ofertas se acaban, se acaban.",
 

@@ -16,7 +16,7 @@ $langInside = array(
     "meta_description" => "Están cayendo en Asia. Están cayendo en Canadá. Están cayendo en Latinoamérica, Estados Unidos y Europa. ¡Los precios están cayendo por todo el mundo! Obtén el equipo HyperX para mejorar tu experiencia de juego a precios increíbles durante el HyperX Loot Drop. Coge el botín épico y huye, solo asegúrate de atrapar estas ofertas mientras puedas, porque una vez que se acaban, se ACABÓ.",
 
     // Soon Title Global
-    "tagline_header_soon" => "¡Promoción que comenzará pronto!",
+    "tagline_header_soon" => "¡LA PROMOCIÓN COMENZARÁ PRONTO!",
 
     // Banner text
     "tagline_header_1" => "¡Grandes descuentos",
