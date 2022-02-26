@@ -6,3 +6,6 @@ uz -
 am -
 az -
 nz -
+
+
+git clone https://github.com/kovpynets/lootdrop.git
