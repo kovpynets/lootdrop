@@ -133,7 +133,7 @@
 - login: hyperx
 - pass: K080489asd
 
-## toronto-vps - 45.61.49.192 (NO)
+## toronto-vps - 45.61.49.192 (UP)
 - ip: http://45.61.49.192:8002
 - login: root
 - pass: wZ3jVzTlJo12
