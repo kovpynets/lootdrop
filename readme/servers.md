@@ -59,7 +59,7 @@
 - login: hyperx
 - pass: K080489asd
 
-## miami-vps - 185.144.158.47
+## miami-vps - 185.144.158.47 (UP)
 ### - панель
 - ip: http://185.144.158.47:8002
 - login: root
@@ -67,29 +67,29 @@
 ### - ssh
 - ssh root@185.144.158.47
 - pass: O03GPUvI6L6X
-- ssh hyperx@185.144.158.47
+- ssh hyperx@185.144.158.47 (или под root "su hyperx")
 - pass: K080489asd
 ### - ftp
 - ip: 185.144.158.47
 - login: hyperx
 - pass: K080489asd
 
-## new-york-vps - 209.182.217.42
+## new-york-vps - 209.182.217.42 (UP)
 ### - панель
 - ip: http://209.182.217.42:8002
 - login: root
-- pass: O03GPUvI6L6X
+- pass: 9EEzQKsoxT5a
 ### - ssh
 - ssh root@209.182.217.42
 - pass: 9EEzQKsoxT5a
-- ssh hyperx@209.182.217.42
+- ssh hyperx@209.182.217.42 (или под root "su hyperx")
 - pass: K080489asd
 ### - ftp
 - ip: 209.182.217.42
 - login: hyperx
 - pass: K080489asd
 
-## singapore-vps
+## singapore-vps - (NO)
 ### - панель
 - ip: http://103.6.168.35:8002
 - login: root
@@ -97,14 +97,14 @@
 ### - ssh
 - ssh root@103.6.168.35
 - pass: 1UY5iuL5gi3s
-- ssh hyperx@103.6.168.35
+- ssh hyperx@103.6.168.35 (или под root "su hyperx")
 - pass: K080489asd
 ### - ftp
 - ip: 103.6.168.35
 - login: hyperx
 - pass: K080489asd
 
-## sydney-vps
+## sydney-vps - (NO)
 ### - панель
 - ip: http://103.125.218.131:8002
 - login: root
@@ -112,7 +112,7 @@
 ### - ssh
 - ssh root@103.125.218.131
 - pass: OwxQ7CNDb3gI
-- ssh hyperx@103.125.218.131
+- ssh hyperx@103.125.218.131 (или под root "su hyperx")
 - pass: K080489asd
 ### - ftp
 - ip: 103.125.218.131
