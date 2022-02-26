@@ -89,7 +89,7 @@
 - login: hyperx
 - pass: K080489asd
 
-## singapore-vps - (NO)
+## singapore-vps - (UP)
 ### - панель
 - ip: http://103.6.168.35:8002
 - login: root
