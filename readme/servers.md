@@ -74,11 +74,50 @@
 - login: hyperx
 - pass: K080489asd
 
-### new-york-vps
+## new-york-vps - 209.182.217.42
+### - панель
+- ip: http://209.182.217.42:8002
+- login: root
+- pass: O03GPUvI6L6X
+### - ssh
+- ssh root@209.182.217.42
+- pass: 9EEzQKsoxT5a
+- ssh hyperx@209.182.217.42
+- pass: K080489asd
+### - ftp
+- ip: 209.182.217.42
+- login: hyperx
+- pass: K080489asd
 
-### singapore-vps
+## singapore-vps
+### - панель
+- ip: http://103.6.168.35:8002
+- login: root
+- pass: 1UY5iuL5gi3s
+### - ssh
+- ssh root@103.6.168.35
+- pass: 1UY5iuL5gi3s
+- ssh hyperx@103.6.168.35
+- pass: K080489asd
+### - ftp
+- ip: 103.6.168.35
+- login: hyperx
+- pass: K080489asd
 
-### sydney-vps
+## sydney-vps
+### - панель
+- ip: http://103.125.218.131:8002
+- login: root
+- pass: OwxQ7CNDb3gI
+### - ssh
+- ssh root@103.125.218.131
+- pass: OwxQ7CNDb3gI
+- ssh hyperx@103.125.218.131
+- pass: K080489asd
+### - ftp
+- ip: 103.125.218.131
+- login: hyperx
+- pass: K080489asd
 
 ### tokyo-vps
 
