@@ -104,7 +104,7 @@
 - login: hyperx
 - pass: K080489asd
 
-## sydney-vps - (UP)
+## sydney-vps - 103.125.218.131 (UP)
 ### - панель
 - ip: http://103.125.218.131:8002
 - login: root
@@ -119,6 +119,30 @@
 - login: hyperx
 - pass: K080489asd
 
-### tokyo-vps
+## tokyo-vps - 103.125.219.173 (NO)
+- ip: http://103.125.219.173:8002
+- login: root
+- pass: 33P1Rk7IRAyE
+### - ssh
+- ssh root@103.125.219.173
+- pass: 33P1Rk7IRAyE
+- ssh hyperx@103.125.219.173 (или под root "su hyperx")
+- pass: K080489asd
+### - ftp
+- ip: 103.125.219.173
+- login: hyperx
+- pass: K080489asd
 
-### toronto-vps
+## toronto-vps - 45.61.49.192 (NO)
+- ip: http://45.61.49.192:8002
+- login: root
+- pass: wZ3jVzTlJo12
+### - ssh
+- ssh root@45.61.49.192
+- pass: wZ3jVzTlJo12
+- ssh hyperx@45.61.49.192 (или под root "su hyperx")
+- pass: K080489asd
+### - ftp
+- ip: 45.61.49.192
+- login: hyperx
+- pass: K080489asd
