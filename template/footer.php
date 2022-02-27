@@ -79,7 +79,7 @@
         width: 16px;
         height: 16px;
         margin: auto 0;
-        background: url(/assets/img/сlose.png) 0 0 no-repeat;
+        background: url(/assets/img/close.png) 0 0 no-repeat;
     }
 </style>
 
