@@ -119,7 +119,7 @@
 - login: hyperx
 - pass: K080489asd
 
-## tokyo-vps - 103.125.219.173 (NO)
+## tokyo-vps - 103.125.219.173 (UP)
 - ip: http://103.125.219.173:8002
 - login: root
 - pass: 33P1Rk7IRAyE
