@@ -124,7 +124,7 @@ if (isset($_SERVER["HTTP_CF_IPCOUNTRY"])) {
         header('Location: /'.$cf_country_code.$query);
         exit();
     }elseif ($cf_country_code == "no"){
-        header('Location: /'.$cf_country_code.$query);
+        header('Location: /'.$cf_country_code.'r'.$query);
         exit();
     }elseif ($cf_country_code == "se"){
         header('Location: /'.$cf_country_code.$query);
