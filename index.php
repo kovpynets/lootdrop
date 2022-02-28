@@ -105,7 +105,7 @@ if (isset($_SERVER["HTTP_CF_IPCOUNTRY"])) {
     //}elseif ($cf_country_code == "az"){
     //    header('Location: /'.$cf_country_code.$query);
     //    exit();
-    }elseif ($cf_country_code == "uk"){
+    }elseif ($cf_country_code == "gb"){
         header('Location: /'.$cf_country_code.$query);
         exit();
     }elseif ($cf_country_code == "de"){
