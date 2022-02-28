@@ -1,3 +1,4 @@
+git clone https://github.com/kovpynets/lootdrop.git
 
 ## 1. amsterdam-vps - 194.37.81.82 (UP) - MASTER
 ### - панель
