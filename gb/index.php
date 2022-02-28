@@ -4,7 +4,7 @@ if(isset($_GET['l'])){
     $gLang = $_GET['l'];
     if($gLang === 'english'){
         $gLang = 'united-kingdom';
-        $changeLangGlobal = 'uk';
+        $changeLangGlobal = 'gb';
     }elseif ($gLang === 'spanish'){
         $gLang = 'spain';
         $changeLangGlobal = 'mx';
