@@ -48,7 +48,7 @@
                                     "family": "RBNo3.1",
                                     //"link": "<link href='//fonts.googleapis.com/css?family=Comfortaa&subset=latin,cyrillic' rel='stylesheet' type='text/css'>"
                                 },
-                                "number-font-size": "50",
+                                "number-font-size": "49",
                                 "number-font-color": "#ffffff",
                                 "separator-margin": "5",
                                 "separator-on": true,

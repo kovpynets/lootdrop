@@ -41,13 +41,6 @@ body {
     background-image: url(../../assets/img/bg-pre.png);
 }
 
-.jp-country .bg-run{
-    //background-image: url(../../assets/img/bg_jp.png)
-}
-.jp-country .bg-soon{
-    //background-image: url(../../assets/img/bg-pre_jp.png);
-}
-
 .bg-partners_left{
     background-size: cover;
     background-position: left;
@@ -506,12 +499,55 @@ body {
     .clear-collapse{
         clear: both;
     }
+
+    .jp-country .bg-run{
+        background-image: url(../../assets/img/bg-jp_m.png)
+    }
+    .jp-country .bg-soon{
+        background-image: url(../../assets/img/bg-pre-jp_m.png);
+    }
+
+    .cn-country .bg-run{
+        background-image: url(../../assets/img/bg-cn_m.png)
+    }
+    .cn-country .bg-soon{
+        background-image: url(../../assets/img/bg-pre-cn_m.png);
+    }
+
+    .tw-country .bg-run{
+        background-image: url(../../assets/img/bg-tw_m.png)
+    }
+    .tw-country .bg-soon{
+        background-image: url(../../assets/img/bg-pre-tw_m.png);
+    }
 }
 
 /**
  * realign the drop down when not collapsed
  */
 @media screen and (min-width: 768px){
+    .jp-country .bg-run{
+        background-image: url(../../assets/img/bg_jp.png)
+    }
+    .jp-country .bg-soon{
+        background-image: url(../../assets/img/bg_pre_jp.png);
+    }
+
+    .cn-country .bg-run{
+        background-image: url(../../assets/img/bg_cn.png)
+    }
+    .cn-country .bg-soon{
+        background-image: url(../../assets/img/bg_pre_cn.png);
+    }
+
+    .tw-country .bg-run{
+        background-image: url(../../assets/img/bg_tw.png)
+    }
+    .tw-country .bg-soon{
+        background-image: url(../../assets/img/bg_pre_tw.png);
+    }
+
+
     .pull-right > .dropdown-menu.realign {
         left: auto;
         right: auto;
