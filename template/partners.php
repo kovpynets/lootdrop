@@ -10,6 +10,7 @@ $json = json_decode($data);
 ?>
 
 <div class="partners">
+<!--
     <div class="bg-partners_left partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="north-america"></div>
         <?= getPartners('North America', 'United States'); ?>
@@ -44,33 +45,11 @@ $json = json_decode($data);
         <?= getPartners('South America', 'Brazil'); ?>
     </div>
 
-    <!--
-    <div class="bg-partners_left partners-wrap">
-        <div style="position: absolute; margin-top: -60px; display: block"  id="eastern-europe"></div>
-        <?= getPartners('Eastern Europe', 'Russia'); ?>
-    </div>
-    <div class="bg-partners_right partners-wrap">
-        <?= getPartners('Eastern Europe', 'Ukraine'); ?>
-    </div>
-    <div class="bg-partners_left partners-wrap">
-        <?= getPartners('Eastern Europe', 'Kazakhstan'); ?>
-    </div>
-    <div class="bg-partners_right partners-wrap">
-        <?= getPartners('Eastern Europe', 'Belarus'); ?>
-    </div>
-    -->
     <div class="bg-partners_left partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="eastern-europe"></div>
         <?= getPartners('Eastern Europe', 'Moldova'); ?>
     </div>
-    <!--
-    <div class="bg-partners_right partners-wrap">
-        <?= getPartners('Eastern Europe', 'Azerbaijan'); ?>
-    </div>
-    <div class="bg-partners_left partners-wrap">
-        <?= getPartners('Eastern Europe', 'Uzbekistan'); ?>
-    </div>
-     -->
+
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Romania'); ?>
     </div>
@@ -110,9 +89,12 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Sweden'); ?>
     </div>
+    -->
     <div class="bg-partners_left partners-wrap">
+        <div style="position: absolute; margin-top: -60px; display: block"  id="north-america"></div>
         <?= getPartners('Eastern Europe', 'Norway'); ?>
     </div>
+    <!--
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Finland'); ?>
     </div>
@@ -157,9 +139,19 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Europe', 'Italy'); ?>
     </div>
+-->
+
+
 
     <div class="bg-partners_left partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="asia"></div>
+        <?= getPartners('Asia', 'China'); ?>
+    </div>
+    <div class="bg-partners_left partners-wrap">
+        <?= getPartners('Asia', 'Taiwan'); ?>
+    </div>
+    <!--
+    <div class="bg-partners_left partners-wrap">
         <?= getPartners('Asia', 'Japan'); ?>
     </div>
     <div class="bg-partners_right partners-wrap">
@@ -186,15 +178,11 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Asia', 'Indonesia'); ?>
     </div>
-    <div class="bg-partners_left partners-wrap">
-        <?= getPartners('Asia', 'Taiwan'); ?>
-    </div>
+
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Asia', 'Hong Kong'); ?>
     </div>
-    <div class="bg-partners_left partners-wrap">
-        <?= getPartners('Asia', 'China'); ?>
-    </div>
+
 
     <div class="bg-partners_right partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="middle-east"></div>
@@ -206,4 +194,5 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Middle East', 'United Arab Emirates'); ?>
     </div>
+    -->
 </div>
