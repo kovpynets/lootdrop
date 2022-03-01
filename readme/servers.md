@@ -1,4 +1,12 @@
+su hyperx
+cd lootdrop.hyperxpromo.com
+rm -rf lootdrop
 git clone https://github.com/kovpynets/lootdrop.git
+cd ..
+cd hyperxlootdrop.com
+rm -rf lootdrop
+git clone https://github.com/kovpynets/lootdrop.git
+cd ..
 
 ## 1. amsterdam-vps - 194.37.81.82 (UP) - MASTER
 ### - панель

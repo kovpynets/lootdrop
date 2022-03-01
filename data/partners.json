@@ -42,5 +42,27 @@
     "none": 31,
     "href": "https://www.elkjop.no/brand/HyperX",
     "link": "https://www.elkjop.no/brand/HyperX?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "partner": "Argos",
+    "data_start": "3/2/22",
+    "data_end": "3/8/22",
+    "image": "argos.png",
+    "none": 7,
+    "href": "https://www.argos.co.uk/search/hyperx/?clickOrigin=searchbar:home:term:hyperx",
+    "link": "https://www.argos.co.uk/search/hyperx/?clickOrigin=searchbar:home:term:hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Finland",
+    "partner": "SOK",
+    "data_start": "3/2/22",
+    "data_end": "3/27/22",
+    "image": "sok.png",
+    "none": 26,
+    "href": "",
+    "link": "-"
   }
 ]

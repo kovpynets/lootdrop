@@ -534,10 +534,10 @@ body {
     }
 
     .cn-country .bg-run{
-        background-image: url(../../assets/img/bg_cn.png)
+        background-image: url(../../assets/img/bg_cn_n.png)
     }
     .cn-country .bg-soon{
-        background-image: url(../../assets/img/bg_pre_cn.png);
+        background-image: url(../../assets/img/bg_pre_cn_n.png);
     }
 
     .tw-country .bg-run{

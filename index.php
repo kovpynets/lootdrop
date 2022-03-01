@@ -5,7 +5,7 @@ if (isset($_SERVER["HTTP_CF_CONNECTING_IP"])) {
 }
 
 $ip_user = $_SERVER['REMOTE_ADDR'];
-//$ip_user = '20.44.63.255';
+//$ip_user = '176.37.74.28';
 //$geo = file_get_contents('http://api.sypexgeo.net/xoI1e/json/'.$ip_user.'');
 //$geo = file_get_contents('http://ipwhois.app/json/'.$ip_user.'?key=MFjlPagh9obyNVdk');
 $geo = file_get_contents('http://ipwhois.pro/json/'.$ip_user.'?key=MFjlPagh9obyNVdk');

@@ -15,10 +15,12 @@ $json = json_decode($data);
         <div style="position: absolute; margin-top: -60px; display: block"  id="north-america"></div>
         <?= getPartners('North America', 'United States'); ?>
     </div>
+    -->
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('North America', 'Canada'); ?>
     </div>
 
+<!--
     <div class="bg-partners_right partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="south-america"></div>
         <?= getPartners('South America', 'Argentina'); ?>
@@ -89,15 +91,15 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Sweden'); ?>
     </div>
-    -->
+    -->s
     <div class="bg-partners_left partners-wrap">
-        <div style="position: absolute; margin-top: -60px; display: block"  id="north-america"></div>
+        <div style="position: absolute; margin-top: -60px; display: block"  id="eastern-europe"></div>
         <?= getPartners('Eastern Europe', 'Norway'); ?>
     </div>
-    <!--
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Finland'); ?>
     </div>
+    <!--<!--
     <div class="bg-partners_left partners-wrap">
         <?= getPartners('Eastern Europe', 'Switzerland'); ?>
     </div>
@@ -107,13 +109,16 @@ $json = json_decode($data);
     <div class="bg-partners_left partners-wrap">
         <?= getPartners('Eastern Europe', 'Belgium'); ?>
     </div>
+    -->
 
-    <div class="bg-partners_right partners-wrap">
-        <div style="position: absolute; margin-top: -60px; display: block"  id="europe"></div>
-        <?= getPartners('Europe', 'Germany'); ?>
-    </div>
+
     <div class="bg-partners_left partners-wrap">
+        <div style="position: absolute; margin-top: -60px; display: block"  id="europe"></div>
         <?= getPartners('Europe', 'United Kingdom'); ?>
+    </div>
+    <!--
+    <div class="bg-partners_right partners-wrap">
+        <?= getPartners('Europe', 'Germany'); ?>
     </div>
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Europe', 'France'); ?>
