@@ -16,10 +16,11 @@ $json = json_decode($data);
         <?= getPartners('North America', 'United States'); ?>
     </div>
     -->
+    <!--
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('North America', 'Canada'); ?>
     </div>
-
+-->
 <!--
     <div class="bg-partners_right partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="south-america"></div>
