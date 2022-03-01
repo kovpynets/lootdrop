@@ -91,7 +91,7 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Sweden'); ?>
     </div>
-    -->s
+    -->
     <div class="bg-partners_left partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="eastern-europe"></div>
         <?= getPartners('Eastern Europe', 'Norway'); ?>
@@ -99,7 +99,7 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Finland'); ?>
     </div>
-    <!--<!--
+    <!--
     <div class="bg-partners_left partners-wrap">
         <?= getPartners('Eastern Europe', 'Switzerland'); ?>
     </div>
