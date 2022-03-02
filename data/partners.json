@@ -44,6 +44,28 @@
     "link": "https://www.elkjop.no/brand/HyperX?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   },
   {
+    "region": "Eastern Europe",
+    "country": "Finland",
+    "partner": "Gigantti",
+    "data_start": "3/1/22",
+    "data_end": "3/31/22",
+    "image": "gigantti.png",
+    "none": "",
+    "href": "https://www.gigantti.fi/search/HyperX",
+    "link": "https://www.gigantti.fi/search/HyperX"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Sweden",
+    "partner": "Elgiganten",
+    "data_start": "3/1/22",
+    "data_end": "3/31/22",
+    "image": "elgiganten.png",
+    "none": "",
+    "href": "https://www.elgiganten.se/brand/hyperx",
+    "link": "https://www.elgiganten.se/brand/hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
     "region": "Europe",
     "country": "United Kingdom",
     "partner": "Argos",
@@ -62,7 +84,7 @@
     "data_end": "3/27/22",
     "image": "sok.png",
     "none": 26,
-    "href": "https://www.prisma.fi/fi/prisma/tuotemerkki/hyperx#facet:&productBeginIndex:&facetLimit:&orderBy:6&pageView:&minPrice:&maxPrice:&pageSize:&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2",
+    "href": "https://www.prisma.fi/fi/prisma/tuotemerkki/hyperx#facet:&productBeginIndex:&facetLimit:&orderBy:6&pageView:&minPrice:&maxPrice:&pageSize:&",
     "link": "https://www.prisma.fi/fi/prisma/tuotemerkki/hyperx#facet:&productBeginIndex:&facetLimit:&orderBy:6&pageView:&minPrice:&maxPrice:&pageSize:&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   }
 ]

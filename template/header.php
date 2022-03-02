@@ -152,23 +152,24 @@ function getPartners($region, $country)
             </script>
         <?php endif; ?>
     <script>
-        if(!window.dataLayer)dataLayer=[];
-        dataLayer.push({ event: 'pb.onOptIn', callback: CallBackFunction, type: [3], or: true });
         var loadGTM=function(id){
-        var script=document.createElement('script');
-            "(function(w,d,s,DL,i){
-                w[DL]=w[DL]||[];
-                w[DL].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-                var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s);
-            j.async=true;
-            j.src='https://www.googletagmanager.com/gtm.js?id=GTM-'+i+'&l=dataLayer';
-            f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','"+id+"');",
-        document.getElementsByTagName(document.body?'body':'head')[0].appendChild(script);
+            var script=document.createElement('script');
+            script.innerHTML=
+                "(function(w,d,s,DL,i){\
+                w[DL]=w[DL]||[];\
+                w[DL].push({'gtm.start':new Date().getTime(),event:'gtm.js'});\
+                var f=d.getElementsByTagName(s)[0],\
+                j=d.createElement(s);\
+                j.async=true;\
+                j.src='https://www.googletagmanager.com/gtm.js?id=GTM-'+i+'&l=dataLayer';\
+                f.parentNode.insertBefore(j,f);\
+                })(window,document,'script','dataLayer','"+id+"');"
+            document.getElementsByTagName(document.body?'body':'head')[0].appendChild(script);
         }
+
         if(!window.dataLayer||window.dataLayer.constructor!=Array)dataLayer=[];
         dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM('GTM-NW4ZGV9')},type:3});
+
     </script>
     <style>
         .kw-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .sa-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .ae-country .navbar-nav-m .dropdown-menu .dropdown-item span img{
