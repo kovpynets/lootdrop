@@ -16,8 +16,8 @@ $date_soonFix =  substr($timer_soon[$lang['lang']],0,-3);
 $date_runFix =  substr($timer_run[$lang['lang']],0,-3);
 
 $date = date('m/d/Y H:i:s');
-$ip_user = $_SERVER['REMOTE_ADDR'];
-//$ip_user = '176.37.74.28';
+//$ip_user = $_SERVER['REMOTE_ADDR'];
+$ip_user = '176.37.74.28';
 
 //$geo = file_get_contents('http://api.sypexgeo.net/xoI1e/json/'.$ip_user.'');
 //$geo = file_get_contents('http://ipwhois.app/json/2600:387:8:f::3e');
@@ -33,8 +33,8 @@ $time_run = $timer_run[$lang['lang']];
 //$nameTimezone = $geo->region->timezone;
 
 // На продакшене
-$nameTimezone = $geo->timezone;
-//$nameTimezone = 'Europe/Kiev';
+//$nameTimezone = $geo->timezone;
+$nameTimezone = 'Europe/Kiev';
 
 $date = new DateTime(null);
 
@@ -155,17 +155,17 @@ function getPartners($region, $country)
         if(!window.dataLayer)dataLayer=[];
         dataLayer.push({ event: 'pb.onOptIn', callback: CallBackFunction, type: [3], or: true });
         var loadGTM=function(id){
-            var script=document.createElement('script');
-            (function(w,d,s,DL,i){
+        var script=document.createElement('script');
+            "(function(w,d,s,DL,i){
                 w[DL]=w[DL]||[];
                 w[DL].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
                 var f=d.getElementsByTagName(s)[0],
-                        j=d.createElement(s);
-                j.async=true;
-                j.src='https://www.googletagmanager.com/gtm.js?id=GTM-'+i+'&l=dataLayer';
-                f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','"+id+"');,
-            document.getElementsByTagName(document.body?'body':'head')[0].appendChild(script);
+                j=d.createElement(s);
+            j.async=true;
+            j.src='https://www.googletagmanager.com/gtm.js?id=GTM-'+i+'&l=dataLayer';
+            f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','"+id+"');",
+        document.getElementsByTagName(document.body?'body':'head')[0].appendChild(script);
         }
         if(!window.dataLayer||window.dataLayer.constructor!=Array)dataLayer=[];
         dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM('GTM-NW4ZGV9')},type:3});
