@@ -152,49 +152,23 @@ function getPartners($region, $country)
             </script>
         <?php endif; ?>
     <script>
-        if(!window.dataLayer)dataLayer=[]; //create the data layer if needed
-        dataLayer.push({ event: 'pb.onOptIn', callback: CallBackFunction, type: [3], or: true }); //register analytics opt-in handler
-
-        /* loadGTM(id) - function loads the specified GTM container */
-
+        if(!window.dataLayer)dataLayer=[];
+        dataLayer.push({ event: 'pb.onOptIn', callback: CallBackFunction, type: [3], or: true });
         var loadGTM=function(id){
-
-            var script=document.createElement('script'); //create <script> tagscript.innerHTML= //script tag contents, a self-executing function that loads the specified GTM container
-
-            "(function(w,d,s,DL,i){\
-
-            w[DL]=w[DL]||[];
-
-w[DL].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-
-var f=d.getElementsByTagName(s)[0],
-
-            j=d.createElement(s);
-
-j.async=true;
-
-j.src='https://www.googletagmanager.com/gtm.js?id=GTM-'+i+'&l=dataLayer';
-
-f.parentNode.insertBefore(j,f);
-
-        })(window,document,'script','dataLayer','"+id+"');",
-
-        document.getElementsByTagName(document.body?'body':'head')[0].appendChild(script); //add <script> to body or head
+            var script=document.createElement('script');
+            (function(w,d,s,DL,i){
+                w[DL]=w[DL]||[];
+                w[DL].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+                var f=d.getElementsByTagName(s)[0],
+                        j=d.createElement(s);
+                j.async=true;
+                j.src='https://www.googletagmanager.com/gtm.js?id=GTM-'+i+'&l=dataLayer';
+                f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','"+id+"');,
+            document.getElementsByTagName(document.body?'body':'head')[0].appendChild(script);
         }
-
-
-
-        /* create dataLayer array if needed */
-
         if(!window.dataLayer||window.dataLayer.constructor!=Array)dataLayer=[];
-
-        /* calls loadGTM('GTM-NW4ZGV9') upon retargeting opt-in, resulting in load of GTM container GTM- NW4ZGV9'*/
         dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM('GTM-NW4ZGV9')},type:3});
-
-
-        /* end */
-
-
     </script>
     <style>
         .kw-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .sa-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .ae-country .navbar-nav-m .dropdown-menu .dropdown-item span img{
