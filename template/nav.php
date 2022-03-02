@@ -32,12 +32,16 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto">
+                    <!--
                     <a href="#north-america" class="nav-item nav-link"><?= $langInside['north_america'];?></a>
                     <a href="#south-america" class="nav-item nav-link"><?= $langInside['south_america'];?></a>
+                    -->
                     <a href="#eastern-europe" class="nav-item nav-link"><?= $langInside['eastern_europe'];?></a>
                     <a href="#europe" class="nav-item nav-link"><?= $langInside['europe'];?></a>
                     <a href="#asia" class="nav-item nav-link"><?= $langInside['asia'];?></a>
+                    <!--
                     <a href="#middle-east" class="nav-item nav-link"><?= $langInside['middle_east'];?></a>
+                    -->
                 </div>
                 <div class="navbar-nav navbar-nav-d">
                     <div class="dropdown">
