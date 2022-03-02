@@ -149,7 +149,7 @@ $json = json_decode($data);
 
 
 
-    <div class="bg-partners_left partners-wrap">
+    <div class="bg-partners_right partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="asia"></div>
         <?= getPartners('Asia', 'China'); ?>
     </div>

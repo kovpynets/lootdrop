@@ -130,7 +130,7 @@ function getPartners($region, $country)
 
             </script>
             <?php elseif($date < $date_runFix): ?>
-            <script async src="//www.hp.com/cma/ng/lib/exceptions/privacy-banner.js"></script>
+            <script async src="https://www.hp.com/cma/ng/lib/exceptions/privacy-banner.js"></script>
 
             <!-- Run -->
             <script>
@@ -143,7 +143,7 @@ function getPartners($region, $country)
             <?php endif; ?>
 
         <?php elseif ($date < $date_soonFix): ?>
-            <script async src="//www.hp.com/cma/ng/lib/exceptions/privacy-banner-test.js"></script>
+            <script async src="https://www.hp.com/cma/ng/lib/exceptions/privacy-banner.js"></script>
             <script>
                 var dataLayer = dataLayer || [];
                 dataLayer.push({
@@ -158,23 +158,43 @@ function getPartners($region, $country)
         /* loadGTM(id) - function loads the specified GTM container */
 
         var loadGTM=function(id){
+
             var script=document.createElement('script'); //create <script> tagscript.innerHTML= //script tag contents, a self-executing function that loads the specified GTM container
-            "(function(w,d,s,DL,i){
+
+            "(function(w,d,s,DL,i){\
+
             w[DL]=w[DL]||[];
-            w[DL].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-            var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s);
-            j.async=true;
-            j.src='https://www.googletagmanager.com/gtm.js?id=GTM-'+i+'&l=dataLayer';
-            f.parentNode.insertBefore(j,f);
+
+w[DL].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+
+var f=d.getElementsByTagName(s)[0],
+
+            j=d.createElement(s);
+
+j.async=true;
+
+j.src='https://www.googletagmanager.com/gtm.js?id=GTM-'+i+'&l=dataLayer';
+
+f.parentNode.insertBefore(j,f);
+
         })(window,document,'script','dataLayer','"+id+"');",
-            document.getElementsByTagName(document.body?'body':'head')[0].appendChild(script); //add <script> to body or head
+
+        document.getElementsByTagName(document.body?'body':'head')[0].appendChild(script); //add <script> to body or head
         }
+
+
+
         /* create dataLayer array if needed */
+
         if(!window.dataLayer||window.dataLayer.constructor!=Array)dataLayer=[];
+
         /* calls loadGTM('GTM-NW4ZGV9') upon retargeting opt-in, resulting in load of GTM container GTM- NW4ZGV9'*/
         dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM('GTM-NW4ZGV9')},type:3});
+
+
         /* end */
+
+
     </script>
     <style>
         .kw-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .sa-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .ae-country .navbar-nav-m .dropdown-menu .dropdown-item span img{
