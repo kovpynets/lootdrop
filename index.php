@@ -33,6 +33,9 @@ if (isset($_SERVER["HTTP_CF_IPCOUNTRY"])) {
     }elseif ($cf_country_code == "in"){
         header('Location: /'.$cf_country_code.$query);
         exit();
+    }elseif ($cf_country_code == "dk"){
+        header('Location: /'.$cf_country_code.$query);
+        exit();
     }elseif ($cf_country_code == "th"){
         header('Location: /'.$cf_country_code.$query);
         exit();

@@ -8,6 +8,7 @@ $langInside = array(
     "asia"           => "Asia",
     "europe"         => "Europe",
     "eastern_europe" => "Eastern Europe",
+    "middle_east"    => "Middle East",
 
     // Meta Data
     "meta_title"       => "Big discounts on HyperX gear!",

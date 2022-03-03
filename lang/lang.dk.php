@@ -27,7 +27,7 @@ $lang = array(
     'og_title' => 'Big discounts on HyperX gear!',
     'og_description' => 'They’re dropping in Asia. They’re dropping in Canada. They’re dropping in Latin America, the United States, and Europe.',
     'og_img' => 'opengraph_us.jpg',
-    'og_img_secure' => 'dk',
+    'og_img_secure' => 'us',
 
     'lang' => 'dk',
     'locale' => 'us_US',

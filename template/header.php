@@ -72,8 +72,6 @@ function getCountry($Country){
 }
 
 function onCli($link, $region, $country){
-    //return "dataLayer.push({'event': 'GAevent','eventCategory':  'Partner','eventAction': 'Partner-".getHost($link)."','eventLabel': 'Partner',});";
-
     return "dataLayer.push({'event': 'GAevent','eventCategory':  'Partner','eventAction': 'Partner-".getHost($link).'-'.getRegion($region)."','eventLabel': 'Partner-click-".getHost($link).'-'.getRegion($region).'-'.getCountry($country)."',});";
 }
 
@@ -168,7 +166,7 @@ function getPartners($region, $country)
         }
 
         if(!window.dataLayer||window.dataLayer.constructor!=Array)dataLayer=[];
-        dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM(‘NW4ZGV9’)},type:3});
+        dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM('NW4ZGV9')},type:3});
 
     </script>
     <style>

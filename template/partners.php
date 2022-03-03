@@ -118,6 +118,10 @@ $json = json_decode($data);
         <div style="position: absolute; margin-top: -60px; display: block"  id="europe"></div>
         <?= getPartners('Europe', 'United Kingdom'); ?>
     </div>
+    <div class="bg-partners_left partners-wrap">
+        <div style="position: absolute; margin-top: -60px; display: block"  id="europe"></div>
+        <?= getPartners('Europe', 'Denmark'); ?>
+    </div>
     <!--
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Europe', 'Germany'); ?>
@@ -150,11 +154,11 @@ $json = json_decode($data);
 
 
 
-    <div class="bg-partners_left partners-wrap">
+    <div class="bg-partners_right partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="asia"></div>
         <?= getPartners('Asia', 'China'); ?>
     </div>
-    <div class="bg-partners_right partners-wrap">
+    <div class="bg-partners_left partners-wrap">
         <?= getPartners('Asia', 'Taiwan'); ?>
     </div>
     <!--
