@@ -162,7 +162,6 @@ function getPartners($region, $country)
 
         if(!window.dataLayer||window.dataLayer.constructor!=Array)dataLayer=[];
         dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM('NW4ZGV9')},type:3});
-        dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM('WFN4LQD')},type:3});
     </script>
     <style>
         .kw-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .sa-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .ae-country .navbar-nav-m .dropdown-menu .dropdown-item span img{
