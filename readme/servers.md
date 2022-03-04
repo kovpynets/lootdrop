@@ -68,7 +68,7 @@ cd ..
 - login: hyperx
 - pass: K080489asd
 
-## miami-vps - 185.144.158.47 (UP)
+## 5. miami-vps - 185.144.158.47 (UP)
 ### - панель
 - ip: http://185.144.158.47:8002
 - login: root
@@ -83,7 +83,7 @@ cd ..
 - login: hyperx
 - pass: K080489asd
 
-## new-york-vps - 209.182.217.42 (UP)
+## 6. new-york-vps - 209.182.217.42 (UP)
 ### - панель
 - ip: http://209.182.217.42:8002
 - login: root
@@ -98,7 +98,7 @@ cd ..
 - login: hyperx
 - pass: K080489asd
 
-## singapore-vps - (UP)
+## 7. singapore-vps - (UP)
 ### - панель
 - ip: http://103.6.168.35:8002
 - login: root
@@ -113,7 +113,7 @@ cd ..
 - login: hyperx
 - pass: K080489asd
 
-## sydney-vps - 103.125.218.131 (UP)
+## 8. sydney-vps - 103.125.218.131 (UP)
 ### - панель
 - ip: http://103.125.218.131:8002
 - login: root
@@ -128,7 +128,7 @@ cd ..
 - login: hyperx
 - pass: K080489asd
 
-## tokyo-vps - 103.125.219.173 (UP)
+## 9. tokyo-vps - 103.125.219.173 (UP)
 - ip: http://103.125.219.173:8002
 - login: root
 - pass: 33P1Rk7IRAyE
@@ -142,7 +142,7 @@ cd ..
 - login: hyperx
 - pass: K080489asd
 
-## toronto-vps - 45.61.49.192 (UP)
+## 10. toronto-vps - 45.61.49.192 (UP)
 - ip: http://45.61.49.192:8002
 - login: root
 - pass: wZ3jVzTlJo12
