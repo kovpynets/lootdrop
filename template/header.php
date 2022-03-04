@@ -19,13 +19,8 @@ $date = date('m/d/Y H:i:s');
 $ip_user = $_SERVER['REMOTE_ADDR'];
 //$ip_user = '176.37.74.28';
 
-//$geo = file_get_contents('http://api.sypexgeo.net/xoI1e/json/'.$ip_user.'');
-//$geo = file_get_contents('http://ipwhois.app/json/2600:387:8:f::3e');
 $geo = file_get_contents('http://ipwhois.pro/json/'.$ip_user.'?key=MFjlPagh9obyNVdk');
-//$geo = file_get_contents('http://ipwhois.app/json/'.$ip_user.'?key=MFjlPagh9obyNVdk');
 $geo = json_decode($geo);
-
-//var_dump($geo);
 
 $time_soon = $timer_soon[$lang['lang']];
 $time_run = $timer_run[$lang['lang']];
@@ -168,7 +163,6 @@ function getPartners($region, $country)
         if(!window.dataLayer||window.dataLayer.constructor!=Array)dataLayer=[];
         dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM('NW4ZGV9')},type:3});
         dataLayer.push({event:'pb.onOptIn',callback:function(){loadGTM('WFN4LQD')},type:3});
-
     </script>
     <style>
         .kw-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .sa-country .navbar-nav-m .dropdown-menu .dropdown-item span img, .ae-country .navbar-nav-m .dropdown-menu .dropdown-item span img{
