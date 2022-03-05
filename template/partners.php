@@ -68,12 +68,8 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Serbia'); ?>
     </div>
-    <div class="bg-partners_left partners-wrap">
-        <?= getPartners('Eastern Europe', 'Hungary'); ?>
-    </div>
-    <div class="bg-partners_right partners-wrap">
-        <?= getPartners('Eastern Europe', 'Slovenia'); ?>
-    </div>
+
+
     <div class="bg-partners_left partners-wrap">
         <?= getPartners('Eastern Europe', 'Estonia'); ?>
     </div>
@@ -108,41 +104,48 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Eastern Europe', 'Switzerland'); ?>
     </div>
-    <!--
-
+    <div class="bg-partners_left partners-wrap">
+        <?= getPartners('Eastern Europe', 'Hungary'); ?>
+    </div>
     <div class="bg-partners_right partners-wrap">
+        <?= getPartners('Eastern Europe', 'Slovenia'); ?>
+    </div>
+
+
+    <div class="bg-partners_left partners-wrap">
         <?= getPartners('Eastern Europe', 'Czech Republic'); ?>
     </div>
+    <!--
     <div class="bg-partners_left partners-wrap">
         <?= getPartners('Eastern Europe', 'Belgium'); ?>
     </div>
     -->
 
 
-    <div class="bg-partners_left partners-wrap">
+    <div class="bg-partners_right partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="europe"></div>
         <?= getPartners('Europe', 'United Kingdom'); ?>
     </div>
-    <div class="bg-partners_right partners-wrap">
+    <div class="bg-partners_left partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="europe"></div>
         <?= getPartners('Europe', 'Denmark'); ?>
     </div>
 
-    <div class="bg-partners_left partners-wrap">
+    <div class="bg-partners_right partners-wrap">
         <?= getPartners('Europe', 'Germany'); ?>
     </div>
 
-    <div class="bg-partners_right partners-wrap">
+    <div class="bg-partners_left partners-wrap">
         <?= getPartners('Europe', 'France'); ?>
     </div>
 
-    <div class="bg-partners_left partners-wrap">
+    <div class="bg-partners_right partners-wrap">
         <?= getPartners('Europe', 'Portugal'); ?>
     </div>
-    <div class="bg-partners_right partners-wrap">
+    <div class="bg-partners_left partners-wrap">
         <?= getPartners('Europe', 'Spain'); ?>
     </div>
-    <div class="bg-partners_left partners-wrap">
+    <div class="bg-partners_right partners-wrap">
         <?= getPartners('Europe', 'Italy'); ?>
     </div>
     <!--

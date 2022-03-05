@@ -117,8 +117,8 @@
     "data_end": "3/25/2022",
     "image": "magalu.png",
     "none": 21,
-    "href": "https://www.magazineluiza.com.br/selecao/selecaoalloyhyperx/?showcase=selecaoalloyhyperx",
-    "link": "https://www.magazineluiza.com.br/selecao/selecaoalloyhyperx/?showcase=selecaoalloyhyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+    "href": "https://www.magazineluiza.com.br/selecao/selecaoalloyhyperxac/",
+    "link": "https://www.magazineluiza.com.br/selecao/selecaoalloyhyperxac/&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   },
   {
     "region": "South America",
@@ -449,5 +449,137 @@
     "none": 22,
     "href": "https://www.hp.com/it-it/shop/List.aspx?sel=ACC&ctrl=f&fc_sb_hyperx=1",
     "link": "https://www.hp.com/it-it/shop/List.aspx?sel=ACC&ctrl=f&fc_sb_hyperx=1&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Hungary",
+    "partner": "EMAG",
+    "data_start": "3/5/22",
+    "data_end": "3/25/22",
+    "image": "emag.png",
+    "none": "",
+    "href": "https://www.emag.hu/search/hyperx?ref=effective_search",
+    "link": "https://www.emag.hu/search/hyperx?ref=effective_search&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Hungary",
+    "partner": "Konzolvilag",
+    "data_start": "3/5/22",
+    "data_end": "3/25/22",
+    "image": "konzolvilag.png",
+    "none": 20,
+    "href": "https://www.konzolvilag.hu/mind/keres/hyperx",
+    "link": "https://www.konzolvilag.hu/mind/keres/hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Hungary",
+    "partner": "iPon",
+    "data_start": "3/5/22",
+    "data_end": "3/25/22",
+    "image": "ipon.png",
+    "none": 20,
+    "href": "https://ipon.hu/kereses/shop?keyword=hyperx",
+    "link": "https://ipon.hu/kereses/shop?keyword=hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Hungary",
+    "partner": "BestByte",
+    "data_start": "3/5/22",
+    "data_end": "3/25/22",
+    "image": "bestbyte.png",
+    "none": "",
+    "href": "https://www.bestbyte.hu/kereses/?SZURES=HyperX",
+    "link": "https://www.bestbyte.hu/kereses/?SZURES=HyperX&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Slovenia",
+    "partner": "BigBang",
+    "data_start": "3/5/22",
+    "data_end": "3/25/22",
+    "image": "bigbang.png",
+    "none": "",
+    "href": "https://www.bigbang.si/izdelki/?search_q=hyperx&securecode=main_search",
+    "link": "https://www.bigbang.si/izdelki/?search_q=hyperx&securecode=main_search&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Slovenia",
+    "partner": "Mimovrste",
+    "data_start": "3/5/22",
+    "data_end": "3/25/22",
+    "image": "mimovrste.png",
+    "none": "",
+    "href": "",
+    "link": ""
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Czech Republic",
+    "partner": "ALZA",
+    "data_start": "3/5/22",
+    "data_end": "3/25/22",
+    "image": "alza.png",
+    "none": "",
+    "href": "https://www.alza.cz/hyperx/v11576.htm",
+    "link": "https://www.alza.cz/hyperx/v11576.htm?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Czech Republic",
+    "partner": "CZC",
+    "data_start": "3/5/22",
+    "data_end": "3/25/22",
+    "image": "czc.cz.png",
+    "none": "",
+    "href": "https://www.czc.cz/hyperx/hledat",
+    "link": "https://www.czc.cz/hyperx/hledat?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Czech Republic",
+    "partner": "FAST CR",
+    "data_start": "05 марта",
+    "data_end": "25 марта",
+    "image": "FASTCR.png",
+    "none": "",
+    "href": "",
+    "link": ""
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Czech Republic",
+    "partner": "HP Tronic",
+    "data_start": "05 марта",
+    "data_end": "25 марта",
+    "image": "datart.png",
+    "none": "",
+    "href": "https://www.datart.cz/hyperx",
+    "link": "https://www.datart.cz/hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Czech Republic",
+    "partner": "TS Bohemia",
+    "data_start": "05 марта",
+    "data_end": "25 марта",
+    "image": "tsbohemia.cz.svg",
+    "none": "",
+    "href": "",
+    "link": ""
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Czech Republic",
+    "partner": "Electroworld",
+    "data_start": "05 марта",
+    "data_end": "25 марта",
+    "image": "electroworld.cz.png",
+    "none": "",
+    "href": "https://www.electroworld.cz/vysledky-vyhledavani?q=HyperX",
+    "link": "https://www.electroworld.cz/vysledky-vyhledavani?q=HyperX&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   }
 ]
