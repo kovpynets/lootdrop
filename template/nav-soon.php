@@ -7,7 +7,7 @@
             <div class="navbar-nav mx-auto">
             </div>
             <div class="navbar-nav" style="color: white">
-                <a target="_blank" href="https://www.hyperxgaming.com/" class="nav-item nav-link nav-link_border"><img src="/assets/img/q.png"></a>
+                <a target="_blank" href="https://hyperx.com" class="nav-item nav-link nav-link_border"><img src="/assets/img/q.png"></a>
             </div>
         </div>
     </nav>
