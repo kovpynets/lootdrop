@@ -64,7 +64,7 @@
                             <a class="dropdown-item" href="?l=arabic"> <span><img style="max-width: 24px;max-height: 24px;width: 100%;" src="../assets/country-lang/svg/saudi-arabia.svg"></span>Arabic</a>
                         </div>
                     </div>
-                    <a target="_blank" href="https://www.hyperxgaming.com" class="nav-item nav-link nav-link_border"><img src="/assets/img/q.png"></a>
+                    <a target="_blank" href="https://hyperx.com" class="nav-item nav-link nav-link_border"><img src="/assets/img/q.png"></a>
                 </div>
             </div>
         </div>
