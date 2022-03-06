@@ -581,5 +581,27 @@
     "none": "",
     "href": "https://www.electroworld.cz/vysledky-vyhledavani?q=HyperX",
     "link": "https://www.electroworld.cz/vysledky-vyhledavani?q=HyperX&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Europe",
+    "country": "Israel",
+    "partner": "PSDS",
+    "data_start": "3/6/22",
+    "data_end": "3/20/22",
+    "image": "ksp.co.il.png",
+    "none": 15,
+    "href": "https://ksp.co.il/web/cat/2767",
+    "link": "https://ksp.co.il/web/cat/2767?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Europe",
+    "country": "Israel",
+    "partner": "BUG",
+    "data_start": "3/6/22",
+    "data_end": "3/20/22",
+    "image": "bug.co.il.jpeg",
+    "none": 15,
+    "href": "https://www.bug.co.il/HyperX/",
+    "link": "https://www.bug.co.il/HyperX/?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   }
 ]

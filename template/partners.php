@@ -148,13 +148,14 @@ $json = json_decode($data);
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Europe', 'Italy'); ?>
     </div>
+    <div class="bg-partners_left partners-wrap">
+        <?= getPartners('Europe', 'Israel'); ?>
+    </div>
     <!--
     <div class="bg-partners_right partners-wrap">
         <?= getPartners('Europe', 'Guatemala'); ?>
     </div>
-    <div class="bg-partners_right partners-wrap">
-        <?= getPartners('Europe', 'Israel'); ?>
-    </div>
+
     <div class="bg-partners_left partners-wrap">
         <?= getPartners('Europe', 'Cyprus'); ?>
     </div>
