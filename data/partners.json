@@ -159,7 +159,7 @@
     "partner": "Submarino",
     "data_start": "3/4/2022",
     "data_end": "3/25/2022",
-    "image": "submarino.png",
+    "image": "submarino_azul.png",
     "none": 21,
     "href": "https://www.submarino.com.br/landingpage/hyperxlootdrop?utm_medium=brdevento&utm_source=00&utm_campaign=marca:suba%3Bmidia:brdevento%3Bformato:branding%3Bsubformato:parceiros%3Bidcampanha:hyperx_loot_drop&epar=br_br_pc_00_hyperxlootdrop",
     "link": "https://www.submarino.com.br/landingpage/hyperxlootdrop?utm_medium=brdevento&utm_source=00&utm_campaign=marca:suba%3Bmidia:brdevento%3Bformato:branding%3Bsubformato:parceiros%3Bidcampanha:hyperx_loot_drop&epar=br_br_pc_00_hyperxlootdrop"
@@ -1439,5 +1439,16 @@
     "none": 21,
     "href": "https://www.x-kom.pl/szukaj?q=hyperx",
     "link": "https://www.x-kom.pl/szukaj?q=hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Sweden",
+    "partner": "INET",
+    "data_start": "3/8/22",
+    "data_end": "3/22/22",
+    "image": "inet.png",
+    "none": "",
+    "href": "https://www.inet.se/hitta?q=HyperX",
+    "link": "https://www.inet.se/hitta?q=HyperX&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   }
 ]
