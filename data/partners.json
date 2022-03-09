@@ -612,8 +612,8 @@
     "data_end": "12-мар.",
     "image": "amazon-logo.png",
     "none": 6,
-    "href": "https://www.amazon.com/stores/HyperX/page/C3BFE396-3717-4B59-A6EA-0A070E7654D1?ref_=ast_bln",
-    "link": "https://www.amazon.com/stores/HyperX/page/C3BFE396-3717-4B59-A6EA-0A070E7654D1?ref_=ast_bln&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+    "href": "https://www.amazon.com/stores/page/AE4D4AC9-D4F7-49BB-B89F-F810EBDF34EA",
+    "link": "https://www.amazon.com/stores/page/AE4D4AC9-D4F7-49BB-B89F-F810EBDF34EA&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   },
   {
     "region": "North America",
@@ -1032,17 +1032,6 @@
     "none": 13,
     "href": "https://www.coolbox.pe/hyperx?_q=hyperx&map=ft",
     "link": "https://www.coolbox.pe/hyperx?_q=hyperx&map=ft&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "South America",
-    "country": "Peru",
-    "partner": "Hiraoka",
-    "data_start": "3/7/2022",
-    "data_end": "3/20/2022",
-    "image": "hiraoka.png",
-    "none": 13,
-    "href": "https://hiraoka.com.pe/gaming/marca-hyperx",
-    "link": "https://hiraoka.com.pe/gaming/marca-hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   },
   {
     "region": "South America",
