@@ -1276,6 +1276,28 @@
     "link": "https://www.you.gr/?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   },
   {
+    "region": "Europe",
+    "country": "Greece",
+    "partner": "Websupplies",
+    "data_start": "3/7/22",
+    "data_end": "3/27/22",
+    "image": "websupplies.svg",
+    "none": "",
+    "href": "https://www.websupplies.gr/Hyperx-Gaming-Promo",
+    "link": "https://www.websupplies.gr/Hyperx-Gaming-Promo&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Europe",
+    "country": "Greece",
+    "partner": "Msystems",
+    "data_start": "3/7/22",
+    "data_end": "3/27/22",
+    "image": "msystems.png",
+    "none": "",
+    "href": "https://www.msystems.gr/search/?keywords=HyperXLootDrop&fbclid=IwAR3X1WaopweOgtWgRTC6DNzzW0q3by8ZJLRA1KRswpVUylqrxuzSBzK9Xv4",
+    "link": "https://www.msystems.gr/search/?keywords=HyperXLootDrop&fbclid=IwAR3X1WaopweOgtWgRTC6DNzzW0q3by8ZJLRA1KRswpVUylqrxuzSBzK9Xv4&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
     "region": "Eastern Europe",
     "country": "Turkey",
     "partner": "MSH TR",
@@ -1450,5 +1472,49 @@
     "none": 8,
     "href": "https://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/513840%257c503292%257c647311/xx-criteria.html",
     "link": "https://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/513840%257c503292%257c647311/xx-criteria.html?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Middle East",
+    "country": "Saudi Arabia",
+    "partner": "Jarir",
+    "data_start": "10-мар.",
+    "data_end": "27-мар.",
+    "image": "jarir.png",
+    "none": 17,
+    "href": "https://www.jarir.com/sa-en/",
+    "link": "https://www.jarir.com/sa-en/?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Middle East",
+    "country": "Kuwait",
+    "partner": "Xcite",
+    "data_start": "10-мар.",
+    "data_end": "27-мар.",
+    "image": "xcite.png",
+    "none": 17,
+    "href": "https://www.xcite.com/hyperx.html",
+    "link": "https://www.xcite.com/hyperx.html?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Middle East",
+    "country": "United Arab Emirates",
+    "partner": "Virgin Megastore",
+    "data_start": "10-мар.",
+    "data_end": "27-мар.",
+    "image": "virginmegastore.png",
+    "none": 17,
+    "href": "https://www.virginmegastore.ae/en",
+    "link": "https://www.virginmegastore.ae/en?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Bulgaria",
+    "partner": "Vali Computers",
+    "data_start": "3/10/22",
+    "data_end": "3/25/22",
+    "image": "vali.png",
+    "none": 16,
+    "href": "https://www.vali.bg/en/catalog#!?q=Hyperx&s=price_asc",
+    "link": "https://www.vali.bg/en/catalog/?utm_source=Landing&utm_medium=Logo&utm_campaing=loot_drop_2#!?q=Hyperx&s=price_asc"
   }
 ]

@@ -37,9 +37,7 @@
                     <a href="#eastern-europe" class="nav-item nav-link"><?= $langInside['eastern_europe'];?></a>
                     <a href="#europe" class="nav-item nav-link"><?= $langInside['europe'];?></a>
                     <a href="#asia" class="nav-item nav-link"><?= $langInside['asia'];?></a>
-                    <!--
                     <a href="#middle-east" class="nav-item nav-link"><?= $langInside['middle_east'];?></a>
-                    -->
                 </div>
                 <div class="navbar-nav navbar-nav-d">
                     <div class="dropdown">
