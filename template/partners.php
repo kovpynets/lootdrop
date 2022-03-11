@@ -165,11 +165,14 @@ $json = json_decode($data);
 
 
 
+    <!--
     <div class="bg-partners_left partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="asia"></div>
         <?= getPartners('Asia', 'China'); ?>
     </div>
-    <div class="bg-partners_right partners-wrap">
+    -->
+    <div class="bg-partners_left partners-wrap">
+        <div style="position: absolute; margin-top: -60px; display: block"  id="asia"></div>
         <?= getPartners('Asia', 'Taiwan'); ?>
     </div>
     <!--
@@ -206,14 +209,14 @@ $json = json_decode($data);
     </div>
  -->
 
-    <div class="bg-partners_left partners-wrap">
+    <div class="bg-partners_right partners-wrap">
         <div style="position: absolute; margin-top: -60px; display: block"  id="middle-east"></div>
         <?= getPartners('Middle East', 'Saudi Arabia'); ?>
     </div>
-    <div class="bg-partners_right partners-wrap">
+    <div class="bg-partners_left partners-wrap">
         <?= getPartners('Middle East', 'Kuwait'); ?>
     </div>
-    <div class="bg-partners_left partners-wrap">
+    <div class="bg-partners_right partners-wrap">
         <?= getPartners('Middle East', 'United Arab Emirates'); ?>
     </div>
 
