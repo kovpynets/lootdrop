@@ -1155,17 +1155,6 @@
     "link": "https://www.inet.se/hitta?q=HyperX&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   },
   {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "partner": "Dixons",
-    "data_start": "3/9/22",
-    "data_end": "3/16/22",
-    "image": "currys.co.uk.png",
-    "none": 8,
-    "href": "https://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/513840%257c503292%257c647311/xx-criteria.html",
-    "link": "https://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/513840%257c503292%257c647311/xx-criteria.html?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
     "region": "Eastern Europe",
     "country": "Bulgaria",
     "partner": "Vali Computers",
@@ -1296,5 +1285,60 @@
     "none": 7,
     "href": "https://www.verkkokauppa.com/fi/search?query=hyperx",
     "link": "https://www.verkkokauppa.com/fi/search?query=hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Asia",
+    "country": "Hong Kong",
+    "partner": "2000Fun",
+    "data_start": "16-мар.",
+    "data_end": "18-мар.",
+    "image": "2000fun.png",
+    "none": 3,
+    "href": "https://www.openshop.com.hk/search.html?keyword=Hyperx",
+    "link": "https://www.openshop.com.hk/search.html?keyword=Hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Asia",
+    "country": "Japan",
+    "partner": "Amazon",
+    "data_start": "16-мар.",
+    "data_end": "31-мар.",
+    "image": "amazon-logo.png",
+    "none": 16,
+    "href": "https://www.amazon.co.jp/hyperx",
+    "link": "https://www.amazon.co.jp/hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Asia",
+    "country": "India",
+    "partner": "Amazon",
+    "data_start": "17-мар.",
+    "data_end": "20-мар.",
+    "image": "amazon-logo.png",
+    "none": 4,
+    "href": "https://www.amazon.in/HyperX",
+    "link": "https://www.amazon.in/HyperX?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Asia",
+    "country": "India",
+    "partner": "Flipkart",
+    "data_start": "17-мар.",
+    "data_end": "20-мар.",
+    "image": "flipkart.png",
+    "none": 4,
+    "href": "https://www.flipkart.com/search?q=HyperX&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "link": "https://www.flipkart.com/search?q=HyperX&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Asia",
+    "country": "New zealand",
+    "partner": "MA only/Channels",
+    "data_start": "17-мар.",
+    "data_end": "31-мар.",
+    "image": "mightyape.png",
+    "none": 15,
+    "href": "https://www.mightyape.co.nz/brands/hyperx",
+    "link": "https://www.mightyape.co.nz/brands/hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   }
 ]
