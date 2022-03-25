@@ -9,3 +9,18 @@ nz -
 
 
 git clone https://github.com/kovpynets/lootdrop.git
+
+
+use midwood
+db.employee.insertOne( { name: "testS" } );
+
+
+use midwood
+db.ctest.insert({name: "Create test", age: 2020})
+db.createUser(
+  {
+    user: "midwood",
+    pwd: "R7~(iR!iR57g4Mn+",
+    roles: [ { role: "dbOwner", db: "midwood" } ]
+  }
+)

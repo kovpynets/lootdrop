@@ -485,61 +485,6 @@
   },
   {
     "region": "Eastern Europe",
-    "country": "Turkey",
-    "partner": "MSH TR",
-    "data_start": "3/7/22",
-    "data_end": "3/27/22",
-    "image": "MSH.png",
-    "none": 21,
-    "href": "https://www.mediamarkt.com.tr/tr/search.html?query=hyperx",
-    "link": "https://www.mediamarkt.com.tr/tr/search.html?query=hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Eastern Europe",
-    "country": "Turkey",
-    "partner": "Amazon",
-    "data_start": "3/7/22",
-    "data_end": "3/27/22",
-    "image": "amazon-logo.png",
-    "none": 21,
-    "href": "https://amazon.com.tr/hyperx",
-    "link": "https://amazon.com.tr/hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Eastern Europe",
-    "country": "Turkey",
-    "partner": "Teknosa",
-    "data_start": "3/7/22",
-    "data_end": "3/27/22",
-    "image": "teknosa.png",
-    "none": 21,
-    "href": "https://www.teknosa.com/hyperx-lootdrop",
-    "link": "https://www.teknosa.com/hyperx-lootdrop?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Eastern Europe",
-    "country": "Turkey",
-    "partner": "Overgame",
-    "data_start": "3/7/22",
-    "data_end": "3/27/22",
-    "image": "overgame.png",
-    "none": 21,
-    "href": "https://www.overgameweb.com/arama?q=hyperx",
-    "link": "https://www.overgameweb.com/arama?q=hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Eastern Europe",
-    "country": "Turkey",
-    "partner": "Vatan",
-    "data_start": "3/7/22",
-    "data_end": "3/27/22",
-    "image": "vatanlogo.png",
-    "none": 21,
-    "href": "https://www.vatanbilgisayar.com/hyperx/",
-    "link": "https://www.vatanbilgisayar.com/hyperx/?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Eastern Europe",
     "country": "Croatia",
     "partner": "Links",
     "data_start": "3/7/22",
@@ -661,17 +606,6 @@
   },
   {
     "region": "Eastern Europe",
-    "country": "Sweden",
-    "partner": "INET",
-    "data_start": "3/8/22",
-    "data_end": "3/22/22",
-    "image": "inet.png",
-    "none": "",
-    "href": "https://www.inet.se/hitta?q=HyperX",
-    "link": "https://www.inet.se/hitta?q=HyperX&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Eastern Europe",
     "country": "Bulgaria",
     "partner": "Vali Computers",
     "data_start": "3/10/22",
@@ -759,17 +693,6 @@
     "link": "https://www.netonnet.se/search?query=hyperx&scope=Gaming&scopeAttributeName=Category_path_2&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   },
   {
-    "region": "Eastern Europe",
-    "country": "Finland",
-    "partner": "Verkkokauppa",
-    "data_start": "3/15/22",
-    "data_end": "3/21/22",
-    "image": "verkkokauppa.png",
-    "none": 7,
-    "href": "https://www.verkkokauppa.com/fi/search?query=hyperx",
-    "link": "https://www.verkkokauppa.com/fi/search?query=hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
     "region": "Asia",
     "country": "Japan",
     "partner": "Amazon",
@@ -781,61 +704,6 @@
     "link": "https://www.amazon.co.jp/hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   },
   {
-    "region": "Asia",
-    "country": "New zealand",
-    "partner": "MA only/Channels",
-    "data_start": "17-мар.",
-    "data_end": "31-мар.",
-    "image": "mightyape.png",
-    "none": 15,
-    "href": "https://www.mightyape.co.nz/brands/hyperx",
-    "link": "https://www.mightyape.co.nz/brands/hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Asia",
-    "country": "Thailand",
-    "partner": "Shopee",
-    "data_start": "21-мар.",
-    "data_end": "24-мар.",
-    "image": "shopee.png",
-    "none": 4,
-    "href": "https://shopee.co.th/hyperx_online",
-    "link": "https://shopee.co.th/hyperx_online?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Asia",
-    "country": "Vietnam",
-    "partner": "Shopee",
-    "data_start": "21-мар.",
-    "data_end": "24-мар.",
-    "image": "shopee.png",
-    "none": 4,
-    "href": "https://shopee.vn/hyperx_official_store",
-    "link": "https://shopee.vn/hyperx_official_store?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Asia",
-    "country": "Singapore",
-    "partner": "Shopee",
-    "data_start": "21-мар.",
-    "data_end": "24-мар.",
-    "image": "shopee.png",
-    "none": 4,
-    "href": "https://shopee.sg/hyperx.sg",
-    "link": "https://shopee.sg/hyperx.sg?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
-    "region": "Asia",
-    "country": "Indonesia",
-    "partner": "Tokopedia",
-    "data_start": "21-мар.",
-    "data_end": "24-мар.",
-    "image": "logo-tokopedia.png",
-    "none": 4,
-    "href": "https://www.tokopedia.com/hyperxofficial?source=universe&st=product",
-    "link": "https://www.tokopedia.com/hyperxofficial?source=universe&st=product&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
-  },
-  {
     "region": "Europe",
     "country": "Germany",
     "partner": "MSH",
@@ -845,6 +713,17 @@
     "none": 7,
     "href": "https://www.mediamarkt.de/de/brand/hyperx",
     "link": "https://www.mediamarkt.de/de/brand/hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Eastern Europe",
+    "country": "Switzerland",
+    "partner": "Digitec",
+    "data_start": "21-мар.",
+    "data_end": "28-мар.",
+    "image": "digitec.ch.png",
+    "none": "",
+    "href": "https://www.digitec.ch/de/brand/hyperx-11037?q=hyperx",
+    "link": "https://www.digitec.ch/de/brand/hyperx-11037?q=hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   },
   {
     "region": "Eastern Europe",
@@ -867,5 +746,38 @@
     "none": 21,
     "href": "https://www.komplett.no/search?q=hyperx",
     "link": "https://www.komplett.no/search?q=hyperx&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Asia",
+    "country": "South Korea",
+    "partner": "Coupang",
+    "data_start": "24-мар.",
+    "data_end": "31-мар.",
+    "image": "coupang.png",
+    "none": 8,
+    "href": "https://www.coupang.com/np/products/brand-shop?brandName=%ED%95%98%EC%9D%B4%ED%8D%BC%EC%97%91%EC%8A%A4",
+    "link": "https://www.coupang.com/np/products/brand-shop?brandName=%ED%95%98%EC%9D%B4%ED%8D%BC%EC%97%91%EC%8A%A4&utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Asia",
+    "country": "Australia",
+    "partner": "Amazon only/JB+Channels",
+    "data_start": "24-мар.",
+    "data_end": "7-апр.",
+    "image": "amazon-logo.png",
+    "none": 15,
+    "href": "https://www.amazon.com.au/hyperx",
+    "link": "https://www.amazon.com.au/hyperx?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
+  },
+  {
+    "region": "Asia",
+    "country": "Philippine",
+    "partner": "Shopee",
+    "data_start": "25-мар.",
+    "data_end": "31-мар.",
+    "image": "shopee.png",
+    "none": 4,
+    "href": "https://shopee.ph/hyperxphilippines",
+    "link": "https://shopee.ph/hyperxphilippines?utm_source=Landing&utm_medium=Logo&utm_campaign=loot_drop_2"
   }
 ]
